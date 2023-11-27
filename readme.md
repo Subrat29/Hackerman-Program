@@ -59,8 +59,8 @@ hackerman();
 ## 1. Clone the repository:
 
 ```bash
-git clone https://github.com/subrat29/hackman-program.git
-cd hackman-program
+git clone https://github.com/Subrat29/Hackman-Program.git
+cd Hackman-Program
 ```
 
 ## 2. Open the index.html file in your preferred web browser to observe the hacking sequence.
